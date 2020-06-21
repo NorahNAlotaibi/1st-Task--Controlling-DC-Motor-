@@ -1,4 +1,4 @@
-//to define the pins
+// to define the pins
 const int motor1ch1 = 0; 
 const int motor1ch2 = 1; 
 const int motor2ch1 = 2; 
